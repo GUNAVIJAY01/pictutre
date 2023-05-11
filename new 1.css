@@ -1,0 +1,216 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+.content{
+	      width:90%;
+		  margin:0px auto;
+}
+.flex{ 
+      display:flex;
+	  flex-wrap:wrap;}
+ .A{width:25%;
+    padding:0px 0px 0px 0px;
+}
+span{
+	color:gray;
+}
+.E{
+	border-radius:10%;
+}
+#linked{
+position:absolute;
+top:51.5%;
+left:9%;
+visibility:hidden;
+font-size:180%;
+margin:0 auto;	
+}
+#facebook{
+position:absolute;
+top:52%;
+left:18%;
+visibility:hidden;
+font-size:180%;
+margin:0 auto;	
+}
+#insta{
+position:absolute;
+top:52%;
+left:15%;
+visibility:hidden;
+font-size:180%;
+margin:0 auto;	
+}
+#twitter{
+position:absolute;
+top:52%;
+left:12%;
+visibility:hidden;
+font-size:180%;
+margin:0 auto;	
+
+}
+.A:hover #linked{
+	visibility:visible;
+}
+.A:hover #insta{
+	visibility:visible;
+}
+.A:hover #facebook{
+	visibility:visible;
+}
+.A:hover #twitter{
+	visibility:visible;
+}
+#linked-2{
+position:absolute;
+top:51.5%;
+left:33%;
+visibility:hidden;
+font-size:180%;
+margin:0 auto;	
+}
+#facebook-2{
+position:absolute;
+top:52%;
+left:36%;
+visibility:hidden;
+font-size:180%;
+margin:0 auto;	
+}
+#insta-2{
+position:absolute;
+top:52%;
+left:39%;
+visibility:hidden;
+font-size:180%;
+margin:0 auto;	
+}
+#twitter-2{
+position:absolute;
+top:52%;
+left:42%;
+visibility:hidden;
+font-size:180%;
+margin:0 auto;	
+
+}
+.A:hover #linked-2{
+	visibility:visible;
+}
+.A:hover #insta-2{
+	visibility:visible;
+}
+.A:hover #facebook-2{
+	visibility:visible;
+}
+.A:hover #twitter-2{
+	visibility:visible;
+}
+#linked-3{
+position:absolute;
+top:51.5%;
+left:55%;
+visibility:hidden;
+font-size:180%;
+margin:0 auto;	
+}
+#facebook-3{
+position:absolute;
+top:52%;
+left:58%;
+visibility:hidden;
+font-size:180%;
+margin:0 auto;	
+}
+#insta-3{
+position:absolute;
+top:52%;
+left:61%;
+visibility:hidden;
+font-size:180%;
+margin:0 auto;	
+}
+#twitter-3{
+position:absolute;
+top:52%;
+left:64%;
+visibility:hidden;
+font-size:180%;
+margin:0 auto;	
+
+}
+.A:hover #linked-3{
+	visibility:visible;
+}
+.A:hover #insta-3{
+	visibility:visible;
+}
+.A:hover #facebook-3{
+	visibility:visible;
+}
+.A:hover #twitter-3{
+	visibility:visible;
+}
+#linked-4{
+position:absolute;
+top:51.5%;
+left:78%;
+visibility:hidden;
+font-size:180%;
+margin:0 auto;	
+}
+#facebook-4{
+position:absolute;
+top:52%;
+left:81%;
+visibility:hidden;
+font-size:180%;
+margin:0 auto;	
+}
+#insta-4{
+position:absolute;
+top:52%;
+left:84%;
+visibility:hidden;
+font-size:180%;
+margin:0 auto;	
+}
+#twitter-4{
+position:absolute;
+top:52%;
+left:87%;
+visibility:hidden;
+font-size:180%;
+margin:0 auto;	
+
+}
+.A:hover #linked-4{
+	visibility:visible;
+}
+.A:hover #insta-4{
+	visibility:visible;
+}
+.A:hover #facebook-4{
+	visibility:visible;
+}
+.A:hover #twitter-4{
+	visibility:visible;
+}
+
+.A{
+	border-color:black;
+	padding-right:25;
+	margin-top:5%;
+}
+.D{
+	background-color:black;
+	border-color:black;	
+	margin-bottom:
+
+}
+.B{
+	border-radius:10%;
+}
